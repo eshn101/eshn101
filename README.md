@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eshan</h1>
 <h3 align="center">A passionate Test Automation Engineer likes solving problems</h3>
 
-- 🔭 I’m currently working on **Charter Communications at a Test Lead/Manager**
+- 🔭 I’m currently working on **Charter Communications as a Test Lead/Manager**
 
 - 🌱 I’m currently learning **Neural Net and Deep Learning**
 
